@@ -14,3 +14,4 @@ https://api.chucknorris.io/jokes/random
 
 # api-tribalw
 # api_tribalw
+# api_tribalw

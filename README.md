@@ -12,6 +12,23 @@ https://api.chucknorris.io/jokes/random
  - djangorestframework 3.14.0
  - requests 2.28.1
 
-# api-tribalw
-# api_tribalw
-# api_tribalw
+
+## instrucciones
+ - clonar el repositorio
+ - crear un entorno virtual, si no lo tienes instalado puedes hacerlo con el siguiente comando:
+    - `pip install virtualenv`
+ - si lo tiene solo es activarlo con el siguiente comando:
+    - `source venv/bin/activate`
+
+- instalar las dependencias con el siguiente comando:
+    - `pip install -r requirements.txt`
+
+- arrancar el servidor con el siguiente comando:
+    - `python manage.py runserver`
+
+- para acceder a la api se debe hacer con el siguiente endpoint:
+http://127.0.0.1:8000/api/chucknorris/
+
+
+        
+
